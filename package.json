@@ -1,15 +1,10 @@
 {
   "name":"mongoose-utils",
   "description":"12factor.net app platform for node.js, built on express 3",
-  "version":"0.3.5",
+  "version":"0.0.1",
   "author":"Jim Snodgrass <jim@skookum.com>",
   "dependencies": {
-    "express": "3.0.1",
-    "connect": "2.6.2",
-    "async":"0.1.11",
-    "underscore":"1.4.2",
-    "jade":"0.27.6",
-    "commander":"1.1.1"
+
   },
   "devDependencies": {
 
