@@ -4,7 +4,8 @@
   "version":"0.0.1",
   "author":"Jim Snodgrass <jim@skookum.com>",
   "dependencies": {
-
+    "knox":"0.5.2",
+    "mongoose": "3.5.4"
   },
   "devDependencies": {
 
