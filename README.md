@@ -2,7 +2,7 @@
 
 A collection of mongoose validations, plugins, and utilities.
 
-` js
+``` js
 var utils = require('mongoose-utils'),
     mongoose = require('mongoose');
 
@@ -15,4 +15,4 @@ var User = new mongoose.Schema({
 
   User.plugin(utils.plugin.timestamps);
 
-`
+```
