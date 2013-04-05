@@ -1,7 +1,7 @@
 {
   "name":"mongoose-utils",
-  "description":"12factor.net app platform for node.js, built on express 3",
-  "version":"0.0.1",
+  "description":"collection of mongoose plugins and schemas",
+  "version":"0.0.2",
   "author":"Jim Snodgrass <jim@skookum.com>",
   "dependencies": {
     "knox":"0.5.2",
