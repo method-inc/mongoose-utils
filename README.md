@@ -14,5 +14,6 @@ var User = new mongoose.Schema({
 // Plugins
 
 User.plugin(utils.plugin.timestamps);
+User.plugin(utils.plugin.extendedMethods);
 
 ```
